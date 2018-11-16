@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css?family=Ranga');
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Pacifico', cursive;
+}
+body{}
+.wrapper{margin: auto;position: relative;background:url(../img/dolomites-2580866_1920.jpg);height: 100vh; background-repeat: no-repeat;background-size: cover;}
+.login{min-width: 340px;background: #d5d5d599;left: 50%;top: 50%;transform: translate(-50%,-50%);position: absolute;padding: 30px;}
+.login h1{text-align: center;padding: 10px;font-size: 25px;color: black; text-transform: uppercase;}
+.eandp{list-style: none;}
+.eandp li input{width: 100%;padding: 10px;margin-bottom: 10px;box-sizing: border-box;}
+.randf{ list-style: none; }
+.randf li{float: left; width: 50%;}
+.submit{width: 100%;background: #3f9076;border: 0;padding: 10px;margin: 9px;font-size: 15px;color: white;text-transform: uppercase;}
+p{text-align: center;}
