@@ -13,5 +13,5 @@ body{}
 .eandp li input{width: 100%;padding: 10px;margin-bottom: 10px;box-sizing: border-box;}
 .randf{ list-style: none; }
 .randf li{float: left; width: 50%;}
-.submit{width: 100%;background: #3f9076;border: 0;padding: 10px;margin: 9px;font-size: 15px;color: white;text-transform: uppercase;}
+.submit{width: 100%;background: #3f9076;border: 0;padding: 10px;margin: 9px;font-size: 15px;color: white;text-transform: uppercase;margin: auto;}
 p{text-align: center;}
